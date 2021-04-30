@@ -7,7 +7,7 @@ on:
         required: false
   push:
     branches: 
-    - master 
+    - main 
   schedule:
     - cron: '0 */12 * * *' 
 
